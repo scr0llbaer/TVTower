@@ -780,7 +780,7 @@
 			</title>
 			<description>
 				<de>Das 75:1 im entscheidenden Aufstiegsspiel zur Verbandsliga West-Nord rief die Betrugsexperten des Fußballbundes auf den Plan.</de>
-				<en>The 75:1 in the decisive promotion match to the club league West-Nord catched attention of the fraud experts of the soccer federation.</en>
+				<en>The 75-1 in the decisive match for promotion to the West-North Club League called the fraud experts of the Football Association to the scene.</en>
 			</description>
 			<data genre="2" flags="2" price="1.0" quality="29" />
 			<availability script="TIME_MONTH=6" />
@@ -912,7 +912,7 @@
 			</title>
 			<description>
 				<de>Wegen mehrfacher Verstöße gegen die damals gültigen Richtlinien der Kriegsführung wurde die Völkerschlacht bei Leipzig im Jahre 1813 für ungültig erklärt.</de>
-
+				<en>Due to multiple violations of the then valid guidelines of warfare, the Battle of the Nations at Leipzig in 1813 has been declared invalid.</en>
 			</description>
 			<data genre="0" price="1.0" quality="17" />
 			<availability script="" year_range_from="" year_range_to="" />
